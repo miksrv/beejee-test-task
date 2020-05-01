@@ -1,0 +1,6 @@
+# Jetbrains editors (PHPStorm, etc)
+.idea/
+*.iml
+
+# MySQL configuration
+/app/config/mysql.php
